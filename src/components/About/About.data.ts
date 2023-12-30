@@ -1,32 +1,26 @@
 export const dataCounter = [
   {
     id: 0,
-    endCounter: 10,
+    endCounter: 1,
     text: "Años de experiencia",
     lineRight: true,
     lineRightMobile: true,
   },
   {
     id: 1,
-    endCounter: 80,
+    endCounter: 2,
     text: "Clientes satisfechos",
     lineRight: true,
     lineRightMobile: false,
   },
   {
     id: 2,
-    endCounter: 220,
+    endCounter: 3,
     text: "Proyectos finalizados",
     lineRight: true,
     lineRightMobile: true,
   },
-  {
-    id: 3,
-    endCounter: 30,
-    text: "Premios ganadores",
-    lineRight: false,
-    lineRightMobile: false,
-  },
+  
 ];
 
 export const dataAboutSkills = [
@@ -35,12 +29,12 @@ export const dataAboutSkills = [
     text: "Skills",
     skills: [
       {
-        title: "Frontend Developer",
-        date: "2017",
+        title: "Robotic Developer",
+        date: "2022",
       },
       {
-        title: "Full Stack Developer",
-        date: "2020",
+        title: "Backend Developer",
+        date: "2023",
       },
     ],
   },
@@ -49,12 +43,12 @@ export const dataAboutSkills = [
     text: "Experiencia",
     skills: [
       {
-        title: "Netflix Inc.",
-        date: "2015",
+        title: "Asistente de lab. desarrollo",
+        date: "2022",
       },
       {
-        title: "Amazon",
-        date: "2020",
+        title: "Pasante IDEMIA Identity & Security",
+        date: "2023",
       },
     ],
   },
@@ -63,26 +57,34 @@ export const dataAboutSkills = [
     text: "Estudios",
     skills: [
       {
-        title: "Grado Universitario en Florida",
-        date: "2012-2016",
+        title: "Técnico en Admin. de empresas",
+        date: "2018-2020",
       },
       {
-        title: "Máster desarrollo Frontend",
-        date: "2016-2018",
+        title: "Pregrado Ingeniería de Sistemas",
+        date: "2021-2024",
       },
     ],
   },
   {
     id: 3,
-    text: "Masters",
+    text: "Cursos",
     skills: [
       {
-        title: "Frontend Developer",
-        date: "2017",
+        title: "Certificación Scrum",
+        date: "2023",
       },
       {
-        title: "Full Stack Developer",
-        date: "2020",
+        title: "Spring Framework & Spring Boot",
+        date: "2023",
+      },
+      {
+        title: "Desarrollo web",
+        date: "2023",
+      },
+      {
+        title: "Curso Advanced de Java",
+        date: "2023",
       },
     ],
   },

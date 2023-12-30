@@ -1,5 +1,5 @@
 import { RiHome4Line, RiAccountPinCircleLine, RiServerLine, RiBriefcase2Line, RiChatPollLine } from "react-icons/ri";
-
+import { FcLike } from "react-icons/fc";
 export const dataNavbar = [
   {
     name: "home",
@@ -22,8 +22,8 @@ export const dataNavbar = [
     icon: <RiBriefcase2Line size="30" />,
   },
   {
-    name: "testimonials",
+    name: "likes",
     path: "/testimonials",
-    icon: <RiChatPollLine size="30" />,
+    icon: <FcLike size="30" />,
   },
 ];

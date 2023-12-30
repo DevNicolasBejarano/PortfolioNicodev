@@ -18,7 +18,7 @@ export function Testimonial() {
                     exit="hidden"
                     className="my-5 text-4xl text-center md:my-10"
                 >
-                    Algunos comentarios <br /><span className="text-secondary">de nuestros clientes.</span>
+                    Algunos gustos <br /><span className="text-secondary">personales.</span>
                 </motion.h1>
                 <motion.div
                     variants={fadeIn('up', 0.5)}

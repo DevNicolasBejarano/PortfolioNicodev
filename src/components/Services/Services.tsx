@@ -26,7 +26,9 @@ export function Services() {
                         initial="hidden"
                         animate="show"
                         exit="hidden"
-                        className="max-w-md">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula.
+                        className="max-w-md">Estoy interesado en trabajar en empresas de desarrollo donde pueda aprender y hacer carrera.
+                        Estoy abierto a trabajar en proyectos de cualquier tamaño o complejidad. Soy un trabajador duro y dedicado, y 
+                        siempre estoy dispuesto a aprender nuevas cosas. Estoy seguro de que puedo ser un activo valioso para cualquier equipo de desarrollo.
                     </motion.p>
                 </div>
 

@@ -19,9 +19,8 @@ export function About() {
                 animate={motionTransitionsAbout.animate}
                 transition={motionTransitionsAbout.transition}
             >
-                <h1 className="mb-6 md:text-4xl">Creando webs con <br /> <span className="text-secondary">diseños espectaculares</span></h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula. </p>
-
+                <h1 className="mb-6 md:text-4xl">Desarrollando software <br /> <span className="text-secondary">de calidad</span></h1>
+                <p>En los últimos dos años, me he dedicado a trabajar y aprender tecnologías de desarrollo backend. He adquirido conocimientos en lenguajes de programación como Python, Java y JavaScript, así como en frameworks como Spring Boot. Mi gusto por esto me lleva a continuar aprendiendo y creciendo en esta área. </p>
                 <div className="grid justify-between grid-cols-2 gap-3 my-8 md:flex md:grid-cols-4 md:gap-6">
                     {dataCounter.map(({ id, endCounter, text, lineRight, lineRightMobile }) => (
                         <div key={id} className={`${lineRight && 'ltr'}`}>

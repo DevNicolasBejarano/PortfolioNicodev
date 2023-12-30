@@ -1,30 +1,23 @@
 export const testimonialsData = [
   {
     id: 0,
-    name: "Juan Palomo",
+    name: "Leer",
     testimonial:
-      "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula.",
+      "Me gusta leer, me permite viajar a otros mundos y conocer otras realidades, aprender sobre nuevas culturas y reflexionar sobre temas importantes. Mi escritor favorito es Mario Benedetti. Me encanta su capacidad para expresar las emociones de forma sencilla y profunda.",
     image: "profile1.png",
   },
   {
     id: 1,
-    name: "Juan Palomo",
+    name: "Música",
     testimonial:
-      "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula.",
+      "Me encanta escuchar salsa mientras programo. Me ayuda a concentrarme y a ser más productivo. La salsa es mi género de música favorito.",
     image: "profile2.png",
   },
   {
     id: 2,
-    name: "Juan Palomo",
+    name: "Basketball",
     testimonial:
-      "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula.",
+      "El basketball es mi deporte favorito y lo práctico en mis tiempos libres, jugué bastante tiempo representando a mi pueblito en el Valle y me enamoré. También me gusta mucho el fútbol",
     image: "profile3.png",
-  },
-  {
-    id: 3,
-    name: "Juan Palomo",
-    testimonial:
-      "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula.",
-    image: "profile4.png",
   },
 ];

@@ -1,4 +1,6 @@
-
+import { GoCodescanCheckmark } from "react-icons/go";
+import { FaBrain, FaBookReader } from "react-icons/fa";
+import { RiSpeakFill } from "react-icons/ri";
 import {
     RxCrop,
     RxDesktop,
@@ -9,28 +11,28 @@ import {
 
 export const serviceData = [
     {
-        icon: <RxCrop />,
-        title: "Branding",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        icon: <GoCodescanCheckmark />,
+        title: "Clean Code",
+        description: "Mejorando para que el código sea seguro y escalable.",
     },
     {
-        icon: <RxPencil2 />,
-        title: "Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        icon: <FaBrain />,
+        title: "Pensamiento",
+        description: "lógico y la capacidad de resolver problemas",
     },
     {
-        icon: <RxDesktop />,
-        title: "Development",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        icon: <FaBookReader />,
+        title: "Capacidad",
+        description: "de aprender y adaptarme a nuevas tecnologías.",
     },
     {
-        icon: <RxReader />,
-        title: "Copywriting",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        icon: <RiSpeakFill />,
+        title: "Comunicarme",
+        description: "de forma efectiva con otros desarrolladores, así como con clientes y usuarios.",
     },
     {
         icon: <RxRocket />,
-        title: "SEO",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        title: "Contribuir",
+        description: "a impulsar la empresa mediante mi trabajo",
     },
 ];
