@@ -21,10 +21,10 @@ export function Introduction() {
                         animate="show"
                         exit="hidden"
                     >
-                        <h1 className="mb-5 text-4xl leading-tight md:mb-10">Hola, soy Nicolas,  <br />
-                            <span className="text-secondary"> desarrollador Backend Jr.</span></h1>
+                        <h1 className="mb-5 text-4xl leading-tight md:mb-10">  <br /></h1>
+                            <span className="text-secondary">Desarrollador Backend Jr.</span>
                         <p className="max-w-sm  mb-10 text-xl md:max-w-2xl md:mx-0 md:mb-16 md:text-xl">
-                        Me apasiona la programación y siempre estoy aprendiendo cosas nuevas. En este portafolio podrás aprender más sobre mí.
+                        Hola, soy Nicolas Bejarano, tengo 19 años, estoy culminando mi pregrado en Ingeniería de Sistemas. Me apasiona la programación y siempre estoy aprendiendo cosas nuevas. Tengo experiencia desarrollando Software. En este portafolio podrás aprender más sobre mí.
                         </p>
 
                         <div className="flex flex-col items-center gap-3 md:gap-10 md:flex-row">
