@@ -22,6 +22,7 @@ export function Introduction() {
                         exit="hidden"
                     >
                         <h1 className="mb-5 text-4xl leading-tight md:mb-10">  <br /></h1>
+                        <br></br><br></br>
                             <span className="text-secondary">Desarrollador Backend Jr.</span>
                         <p className="max-w-sm  mb-10 text-xl md:max-w-2xl md:mx-0 md:mb-16 md:text-xl">
                         Hola, soy Nicolas Bejarano, tengo 19 años, estoy culminando mi pregrado en Ingeniería de Sistemas. Me apasiona la programación y siempre estoy aprendiendo cosas nuevas. Tengo experiencia desarrollando Software. En este portafolio podrás aprender más sobre mí.
