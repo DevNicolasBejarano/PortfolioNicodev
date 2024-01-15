@@ -1,21 +1,21 @@
-import { SiTailwindcss, SiGithub, SiReact, SiNextdotjs, SiTestinglibrary } from "react-icons/si";
+import { SiTailwindcss, SiGithub, SiPhp, SiNextdotjs, SiTestinglibrary, SiMysql, SiHtml5 } from "react-icons/si";
 
 export const cardContent = [
   {
     id: 0,
-    title: "Calculator",
+    title: "Blog",
     description:
-      "Calculator project made by React and Tailwind CSS. ",
-    imageUrl: "/work-1.jpeg",
+      "Para fundación en La Guajira, PHP, JS, Bootstrap, HTML, CSS, SQL",
+    imageUrl: "/work-1.png",
     skills: [
       {
-        icon: <SiReact size="40" />
+        icon: <SiPhp size="40" />
       },
       {
-        icon: <SiTailwindcss size="40" />
+        icon: <SiMysql size="40" />
       },
       {
-        icon: <SiTestinglibrary size="40" />
+        icon: <SiHtml5 size="40" />
       },
     ]
   },
